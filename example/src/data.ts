@@ -74,38 +74,6 @@ export const liveTextData = [
 export const processingData = [
   {
     title: 'Original',
-    uri: 'https://placedog.net/300/300?id=238',
-  },
-  {
-    title: 'Resize',
-    uri: 'https://placedog.net/300/300?id=238',
-    resize: 150,
-  },
-  {
-    title: 'Monochrome',
-    uri: 'https://placedog.net/300/300?id=238',
-    resize: 150,
-    monochrome: 'white',
-  },
-  {
-    title: 'Circle',
-    uri: 'https://placedog.net/300/300?id=238',
-    resize: 150,
-    rounded: true,
-  },
-  {
-    title: 'Blur',
-    uri: 'https://placedog.net/300/300?id=238',
-    resize: 150,
-    blur: 5,
-    rounded: true,
-  },
-  {
-    title: 'Tint',
-    uri: 'https://placedog.net/300/300?id=238',
-    resize: 100,
-    blur: 5,
-    rounded: true,
-    tint: 'black',
+    uri: 'ftp://Uaeg@ftp.drivehq.com/Screenshot%202025-12-18%20003122.png',
   },
 ];
